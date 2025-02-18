@@ -1,0 +1,6 @@
+streamlit==1.25.0  # Ensure compatibility with the latest Streamlit features
+pandas==2.0.3      # For handling Excel files
+openpyxl==3.1.2    # For reading `.xlsx` files
+llama-index==0.6.8 # For core llama-index functionality
+huggingface-hub==0.17.2  # For HuggingFace embeddings
+docling-reader==0.1.2
