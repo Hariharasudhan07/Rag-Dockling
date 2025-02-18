@@ -1,5 +1,3 @@
-```markdown
-
 #Rag-Dockling
 
 ## RAG over Documents with Dockling & Llama-3.3-70b-instruct
@@ -41,7 +39,7 @@ A Streamlit app that demonstrates Retrieval-Augmented Generation (RAG) over docu
    ```bash
    git clone https://github.com/yourusername/your-repo.git
    cd your-repo
-   ```
+
 
 2. **Create a Virtual Environment (Recommended):**
 
